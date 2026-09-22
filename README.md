@@ -1,0 +1,2 @@
+# deep_learning_untuk_mendeteksi_penyakit_pada.ipynb
+belajar
